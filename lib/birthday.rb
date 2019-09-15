@@ -29,3 +29,5 @@ birthday_kids = {
   "Sarah" => 6, 
   "Amanda" => 27
 }
+
+age_appropriate_birthday(birthday_kids)
